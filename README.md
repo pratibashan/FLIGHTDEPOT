@@ -42,6 +42,8 @@ The challenge was finding a suitable API for our project goal.Moreover,both goog
 ---
 <img width="1428" alt="screen shot 2018-07-14 at 8 58 55 pm" src="https://user-images.githubusercontent.com/38846724/42729774-db85a822-87a8-11e8-9e69-454674f29d0b.png">
 
+<img width="1437" alt="screen shot 2018-07-14 at 8 59 21 pm" src="https://user-images.githubusercontent.com/38846724/42729779-fd3d4a10-87a8-11e8-9468-adf871358efc.png">
+
 
 
 
