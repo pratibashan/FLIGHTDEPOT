@@ -40,6 +40,7 @@ A web application to search  and book flights. We used Fareportal api for flight
 The challenge was finding a suitable API for our project goal.Moreover,both google api and Fareportal api have limitations on the daily usage.However,we solved it by limiting our  daily use and in case we exceed, we retrieved a new api key.
 
 ---
+<img width="1428" alt="screen shot 2018-07-14 at 8 58 55 pm" src="https://user-images.githubusercontent.com/38846724/42729774-db85a822-87a8-11e8-9e69-454674f29d0b.png">
 
 
 
